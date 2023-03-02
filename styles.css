@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code here. */
+table, th, td {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: brown;
+    color:white;
+   text-align:start;
+  }
+  .r1{
+    background-color: lightpink;
+    color:white;
+  }
+  .r2{
+    background-color: rgb(218, 190, 193);
+  }
+  .r3{
+    background-color:rgb(170, 190, 209);
+  }
